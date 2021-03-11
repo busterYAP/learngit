@@ -5,3 +5,4 @@ Git tracks changes of files.
 Yap yapyapyap.
 Github build.
 Creating a new branch is quick and simple.
+Git no-off merge.
