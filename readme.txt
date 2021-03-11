@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Yap yapyapyap.
 Github build.
+Creating a new branch is quick.
